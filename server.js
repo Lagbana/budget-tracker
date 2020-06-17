@@ -34,7 +34,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget', {
 })
 
 // Import all api routes
-app.use(require('/', './routes/api.js'))
+app.use(require('./routes/api.js'))
 
 /*
   Set's the PORT to 3000 when in local development OR to the PORT set by Heroku's environment when deployed
