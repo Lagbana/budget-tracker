@@ -4,7 +4,7 @@
 
 ## Description
 
-Budget Tracker is a Progessive Web Application (PWA) that allows for simple online and offline access and budgeting functionality. The user is able to add expenses and deposits to their budget with or without an internet connection. When entering transactions offline, the transactions and total are displayed and functional. When online the transaction data is populated in the database. The application is also downloadable as a desktop application or a mobile application on a smartphone.
+Budget Tracker is a Progessive Web Application (PWA) that allows for simple online and offline access and budgeting functionality. The user is able to add expenses and deposits to their budget with or without an internet connection. When entering transactions offline, the transactions and total are displayed and functional. When online the transaction data is populated in the database. The application is also downloadable as a desktop application or as a mobile application on a smartphone.
 
 **Deployed App:** 
 
